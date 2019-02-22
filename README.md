@@ -1,2 +1,2 @@
 # Javascript---Task-List
-A task list built using just vanilla javascript
+A task list built using just Javascript, Materialize, and Bootstrap.
